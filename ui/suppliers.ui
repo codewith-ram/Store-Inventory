@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>SuppliersPage</class>
+ <widget class="QWidget" name="SuppliersPage">
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <layout class="QHBoxLayout" name="toolbar">
+     <item><widget class="QPushButton" name="btnAdd"><property name="text"><string>Add</string></property></widget></item>
+     <item><widget class="QPushButton" name="btnEdit"><property name="text"><string>Edit</string></property></widget></item>
+     <item><widget class="QPushButton" name="btnDelete"><property name="text"><string>Delete</string></property></widget></item>
+    </layout>
+   </item>
+   <item>
+    <widget class="QTableWidget" name="tableSuppliers"/>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
