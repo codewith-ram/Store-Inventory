@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ReportsPage</class>
+ <widget class="QWidget" name="ReportsPage">
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QPushButton" name="btnExportPdf">
+     <property name="text"><string>Export PDF Report</string></property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="labelCharts">
+     <property name="text"><string>Charts will render on export.</string></property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

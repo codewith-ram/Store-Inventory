@@ -1,0 +1,4 @@
+pyqt5>=5.15.0
+matplotlib>=3.7.0
+reportlab>=3.6.0
+bcrypt>=4.0.1

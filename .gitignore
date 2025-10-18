@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.env
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build/Dist
+build/
+dist/
+*.spec
+
+# Logs
+*.log
+
+# Database and runtime files
+store_inventory/store_inventory.db
+*.sqlite3
+
+# Reports/exports
+*.pdf
+*.csv
+
+# Images cache
+**/.ipynb_checkpoints/
